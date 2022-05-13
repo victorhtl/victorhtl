@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @victorhtl
-- 🌱 I’m currently learning Python and Web Development skills
-- 📫 How to reach me: Twitter @luna_vht; linkedIn 
+- Olá, me chamo Victor
+- Conheci programação na faculdade de Engenharia Civil e me apaixonei!!
+- Estou aprendendo técnicas de Desenvolvimento Web tanto Back quando Front
+- Vou postando aqui alguns projetos mais relevantes 
 
 <!---
 victorhtl/victorhtl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
