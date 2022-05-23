@@ -2,7 +2,7 @@
 - Estou cursando Análise e Desenvolvimento de Sistemas
 - Estudo técnicas de Desenvolvimento Web tanto Back quando Front
 - Minhas linguagens: Python e JavaScript
-- Tecnologias de desenvolvimento: HTML, CSS, Django, Git 
+- Tecnologias de desenvolvimento: HTML, CSS, Django, Git, SQL
 
 <!---
 victorhtl/victorhtl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
