@@ -2,8 +2,9 @@
 - Estou cursando Análise e Desenvolvimento de Sistemas
 - Estudo técnicas de Desenvolvimento Web. Mais afinidade com o backend
 - Meus pontos fortes: Python e criatividade
-- Meus pontos fracos: CSS e acordar cedo
+- Meus pontos fracos: CSS e rotinas
 - Outras tecnologias: HTML, Django, Git, SQL, Node
+- Também me interesso por assuntos de DataScience, IA e criptomoedas
 
 <!---
 victorhtl/victorhtl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
