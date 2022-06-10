@@ -1,8 +1,9 @@
 - <h1>Olá, me chamo Victor</h1>
 - Estou cursando Análise e Desenvolvimento de Sistemas
-- Estudo técnicas de Desenvolvimento Web tanto Back quando Front
-- Minhas linguagens: Python e JavaScript
-- Tecnologias de desenvolvimento: HTML, CSS, Django, Git, SQL
+- Estudo técnicas de Desenvolvimento Web. Mais afinidade com o backend
+- Meus pontos fortes: Python e motivação
+- Meus pontos fracos: CSS e acordar cedo
+- Outras tecnologias: HTML, Django, Git, SQL, Node
 
 <!---
 victorhtl/victorhtl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
