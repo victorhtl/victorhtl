@@ -4,7 +4,7 @@
 - Meus pontos fortes: Python e criatividade
 - Meus pontos fracos: CSS e rotinas
 - Outras tecnologias: HTML, Django, Git, SQL, Node
-- Também me interesso por: DataScience, IA, criptomoedas e temas escuros
+- Também gosto de: Criptomoedas e temas escuros
 
 <!---
 victorhtl/victorhtl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
