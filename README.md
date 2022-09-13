@@ -1,10 +1,12 @@
 - <h1>Olá, me chamo Victor</h1>
-- Trabalho com desenvolvimento de sistemas embarcados
-- Estudo técnicas de Desenvolvimento Web. Mais afinidade com o backend
+- Trabalho com desenvolvimento de sistemas embarcados e desenvolvimento Web
+
+- No tempo livre gosto de aprender sobre Ciências da Computação
+
 - Meus pontos fortes: Python e criatividade
 - Meus pontos fracos: CSS e rotinas
-- Outras tecnologias: HTML, Django, Git, SQL, Node
-- Também gosto de: Criptomoedas e temas escuros
+- Tecnologias do meu dia a dia: C, Django, HTML, CSS, Bootstrap, SQL, JavaScript
+- Também gosto de Criptomoedas e temas escuros
 
 <!---
 victorhtl/victorhtl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
