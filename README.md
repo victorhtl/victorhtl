@@ -2,7 +2,7 @@
 ### Sobre
 
 Sou desenvolvedor de software com experiência em Web, sistemas embarcados e internet das coisas. Já implementei sistemas desde a coleta de dados de sensores em campo até interfaces gráficas Web, API's e Bancos de dados.<br><br>
-Também me interesso pela bíblia, inteligência artificial, economia, bitcoin e música.
+Também me interesso pela bíblia, economia, bitcoin e música.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhtluna/)
 
