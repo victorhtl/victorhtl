@@ -1,8 +1,5 @@
 ## Hi ✌️
 
-Sou desenvolvedor de software com experiência em Web, sistemas embarcados e internet das coisas. Já implementei sistemas desde a coleta de dados de sensores em campo até interfaces gráficas Web, API's e Bancos de dados.<br><br>
-Também me interesso pela bíblia, economia, bitcoin e música.
-
 Software developer with experience in Eletronics, C for Embedded Systems and Web Developing. Currently working as a full stack software developer with nodejs, react and ruby on rails.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhtluna/)
