@@ -1,6 +1,7 @@
 ## Hi ✌️
 
-Software developer with experience in Eletronics, C for Embedded Systems and Web Developing. Currently working as a full stack software developer with nodejs, react and ruby on rails.
+Software developer with experience in Web Development and Embedded Systems. 
+Currently working as a Full-stack Web Developer at [Codeminer42](https://www.codeminer42.com/br).
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhtluna/)
 
